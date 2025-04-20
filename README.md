@@ -41,3 +41,10 @@ Your submission will be evaluated based on:
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - kandaramit5@gmail.com
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+
+## 🔗 Live Dashboard
+
+Check out the live version of this dashboard here:  
+👉 [Live Demo](https://cyrus-xx01.github.io/Aviation/)
+
